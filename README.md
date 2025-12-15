@@ -96,6 +96,3 @@ src/parallel_developability.sh
 * All definitions, formulas, and thresholds are taken from the original antibody structural descriptor article https://www.pnas.org/doi/epdf/10.1073/pnas.1810576116.
 * SASA is calculated using the Shrake–Rupley algorithm via FreeSASA.
 
----
-
-If you want, I can also **add a section with example command lines** and sample outputs so someone can run the pipeline out-of-the-box. Do you want me to add that?
